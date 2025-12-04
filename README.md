@@ -22,7 +22,8 @@ The dashboard helps answer critical HR Analytics and employee data questionds:
 
   ---
 ## Data Source
-![Download Here](HR_Analytics_Data.csv)
+![Download HR_Analytics_Data Here](HR_Analytics_Data.csv)
+![Download HR_employee_data Here](HR_employee_data)
 
   ---
 
